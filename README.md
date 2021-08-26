@@ -1,1 +1,5 @@
-# Primeiro_Repositario
+# Primeiro Repositorio
+
+## Comandos
+
+- git clone
